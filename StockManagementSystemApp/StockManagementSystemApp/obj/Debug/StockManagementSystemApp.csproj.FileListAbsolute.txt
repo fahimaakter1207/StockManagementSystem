@@ -1,0 +1,24 @@
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojAssemblyReference.cache
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.LoginForm.resources
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ProgressForm.resources
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.cache
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.CoreCompileInputs.cache
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+D:\ASP.NET Work\BITM Course Files\CourseProjects\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.MasterForm.resources
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe.config
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.exe
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\bin\Debug\StockManagementSystemApp.pdb
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojAssemblyReference.cache
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.LoginForm.resources
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.MasterForm.resources
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.UI.ProgressForm.resources
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.cache
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csproj.CoreCompileInputs.cache
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.exe
+D:\Dot net\StockManagementSystem-master\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
